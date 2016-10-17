@@ -1,0 +1,20 @@
+{
+  "name": "testing-102",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveharmswebdev/testing-102.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveharmswebdev/testing-102/issues"
+  },
+  "homepage": "https://github.com/daveharmswebdev/testing-102#readme"
+}
